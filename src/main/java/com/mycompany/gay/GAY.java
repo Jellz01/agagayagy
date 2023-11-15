@@ -12,7 +12,7 @@ public class GAY {
 
     public static void main(String[] args) {
         
-        System.out.println("El fabian es mi perra");
+        System.out.println("El fabian es mi perra manab");
         Controlador c1 = new Controlador();
         c1.controladorMEnu();
     }
