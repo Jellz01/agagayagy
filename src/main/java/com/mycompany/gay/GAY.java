@@ -11,6 +11,8 @@ package com.mycompany.gay;
 public class GAY {
 
     public static void main(String[] args) {
+        
+        System.out.println("El fabian es mi perra");
         Controlador c1 = new Controlador();
         c1.controladorMEnu();
     }
